@@ -1,17 +1,16 @@
 ---
 title: ERP 개발 및 유지보수 담당자 (신입,경력) 채용
 date: 2021-05-03 16:08:27
-tags: [채용]
-permalink: /2021/05/03/apply2/
+tags: [뉴스]
 thumbnail: https://source.unsplash.com/m_HRfLhgABo/
 lede: ERP팀은 ERP시스템 및 Extended ERP 시스템을 원활하고 효율적으로 사용할 수 있도록 개발(SI) 및 유지보수(SM)를 수행하는 팀입니다.
 ---
+<p>&nbsp;</p>
 
 <span style="color:blue"><font size="6">**지원분야**</font></span>
 - **ERP 개발 및 유지보수 담당자**    
 
 <p>&nbsp;</p>
-
 
 <span style="color:blue"><font size="6">**담당업무**</font></span>
 
