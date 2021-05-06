@@ -16,7 +16,7 @@ pre-negotiated offers to university infosessions, so that they can snag
 programmers and UX designers who really stand out.  Instead of spending valuable
 time validating a particularly promising candidate's skillset through a
 protracted series of interviews, it's often more efficient to simply __give the
-individual an offer right then and there__. 
+individual an offer right then and there__. !!!
 
 {% blockquote %}
 VNTG는 제조기업의 end-to-end Digital Transformation 전문기업입니다.
