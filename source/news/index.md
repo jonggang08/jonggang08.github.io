@@ -5,5 +5,5 @@ layout: page
 ---
 
 
-* <font size="4">{% post_link news1 %}</font>
+* <a href="/2021/05/04/news1/" role="button"><font size="4">구글 클라우드와 디지털 혁신 전략 추진</font></a>
 <p>&nbsp;</p>

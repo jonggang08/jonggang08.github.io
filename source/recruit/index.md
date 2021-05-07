@@ -10,12 +10,14 @@ layout: page
 
 **[더 알아보기](https://www.jobkorea.co.kr/Recruit/Co_Read/C/vntgcorp)** 
 
-* <font size="4">{% post_link apply2 %}</font>
+* <a href="/2021/05/03/apply2/" role="button"><font size="4">IT서비스 업무지원 인턴채용</font></a>
 
-* <font size="4">{% post_link apply1 %}</font>
+* <a href="/2021/05/03/apply1/" role="button"><font size="4">ERP개발 및 유지보수 담당자 채용</font></a>
 
 	
 <p>&nbsp;</p>
 <img src="https://source.unsplash.com/aZXUY0SnFto/" width="900" height="300" />
 
 <p>&nbsp;</p>
+
+
