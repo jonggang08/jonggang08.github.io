@@ -3,8 +3,8 @@ title: Another blog page
 date: 2021-04-30 13:13:58
 tags: [Python, R]
 categories: 
-- [기본정보]
-- [코딩]
+- [직무소개]
+- [조직문화]
 thumbnail: https://source.unsplash.com/6McqqgHy0EY/
 lede: "Top tech talent knows that industry recruiters often bring a stack of
 pre-negotiated offers to university infosessions."
