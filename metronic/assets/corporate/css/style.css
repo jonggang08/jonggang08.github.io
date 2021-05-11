@@ -4,10 +4,10 @@ Template Name: Metronic - Responsive Website Template build with Twitter Bootstr
 
 /* General body settings */
 body { 
-	color: #3e4d5c; 
+	color: #ffffff; 
 	direction: ltr;
 	font: 400 13px 'Open Sans', Arial, sans-serif;
-	background: #fff;
+	background: rgb(0, 0, 0);
 }
 
 /***
@@ -326,7 +326,7 @@ Custom Scrollbars
 Pre-Header and pre-header elements
 ***/
 .pre-header {
-	color: #616b76;
+	color: #ffffff;
 	border-bottom: 1px solid #eee;
 	padding-top: 10px;
 	line-height: 1.2;
@@ -335,7 +335,7 @@ Pre-Header and pre-header elements
 	background: #fff;
 }
 .pre-header a {
-	color: #616b76;
+	color: #ffffff;
 }
 .pre-header a:hover {
 	color: #E02222;
@@ -1141,7 +1141,7 @@ steps block and steps block elements
 	background: none;
 	padding: 0;
 	font: 14px "Open Sans", sans-serif;
-	color: #5f6d7b;
+	color: #ffffff;
 	margin-bottom: 22px;
 }
 .breadcrumb > li + li:before {
@@ -1155,7 +1155,7 @@ steps block and steps block elements
     color: #5f6d7b;
 }
 .breadcrumb a {
-	color: #5f6d7b;
+	color: #ffffff;
 }
 .breadcrumb > .active {
 	color: #e6400c;
@@ -3026,10 +3026,10 @@ Styler Panel
   background: #e84d1c;
 }
 .color-mode li.color-green {
-  background: #67bd3c;
+  background: #2468FF;
 }
 .color-mode li.color-orange {
-  background: #e18604;
+  background: #2468FF;
 }
 .color-gray {
 	background: #798b97;

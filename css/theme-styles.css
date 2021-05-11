@@ -308,7 +308,7 @@ h5 {
 .mix_all img {
   width: 100%;
 }
-.btn-primary {
-  color: #fff !important;
-  border: 1px solid #e94d1c !important;
+btn-primary {
+  color: #000;
+  border: 2px solid #e94d1c !important;
 }
