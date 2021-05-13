@@ -2,18 +2,19 @@
 title: IT서비스 업무지원 인턴채용
 date: 2021-05-03 16:08:27
 tags: [뉴스]
+permalink: /itservice/
 thumbnail: https://source.unsplash.com/PISwYqWIGPc/
 lede: VNTG의 품질계획, 관리, 보증 및 품질 개선과 같은 수단에 수반되는 품질경영시스템에 근거하여 센터 내의 품질관리 및 품질활동 활동을 수행하며, 활동을 통하여 VNTG 조직 내 고객 또는 제 3자에게 서비스 품질의 신뢰를 확보합니다.
 ---
 
 
-<span style="color:blue"><font size="6">**지원분야**</font></span>
+<span style="color:white"><font size="6">**지원분야**</font></span>
 - **IT 서비스 업무지원 인턴**    
 
 <p>&nbsp;</p>
 
 
-<span style="color:blue"><font size="6">**담당업무**</font></span>
+<span style="color:white"><font size="6">**담당업무**</font></span>
 
 - <font size="4">**주요업무**</font>
     - ITSM 시스템 고도화 프로젝트 사업관리
@@ -36,6 +37,9 @@ lede: VNTG의 품질계획, 관리, 보증 및 품질 개선과 같은 수단에
 
 <p>&nbsp;</p>
 
-<img src="https://source.unsplash.com/wLiP-R6Vd2g/" width="800" height="500" />
+<a href="https://www.jobkorea.co.kr/Recruit/GI_Read/34611979?Oem_Code=C1&logpath=1">
+<img src='../metronic/assets/pages/img/frontend-slider/join.png' width="200" height="60">
+</a>
+
 
 <p>&nbsp;</p>

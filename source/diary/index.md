@@ -15,12 +15,12 @@ date: 2021-05-10
     </div>
     <div class="col-sm-4">
       <div class="">
-        <img src="/metronic/assets/pages/img/frontend-slider/hj.jpg" alt="New York" width="350" height="250">
+        <img src="/metronic/assets/pages/img/frontend-slider/hj.jpg" class="animated zoomIn" alt="New York" width="350" height="250">
       </div>
     </div>
     <div class="col-sm-4">
       <div class="">
-        <img src="/metronic/assets/pages/img/frontend-slider/book.jpg" alt="San Francisco" width="350" height="250">
+        <img src="/metronic/assets/pages/img/frontend-slider/book.jpg" class="animated zoomIn" alt="San Francisco" width="350" height="250">
       </div>
     </div>
   </div>
@@ -38,12 +38,12 @@ date: 2021-05-10
     </div>
     <div class="col-sm-4">
       <div class="">
-        <img src="/metronic/assets/pages/img/frontend-slider/hj.jpg" alt="New York" width="350" height="250">
+        <img src="/metronic/assets/pages/img/frontend-slider/hj.jpg" class="animated zoomIn"  alt="New York" width="350" height="250">
       </div>
     </div>
     <div class="col-sm-4">
       <div class="">
-        <img src="/metronic/assets/pages/img/frontend-slider/book.jpg" alt="San Francisco" width="350" height="250">
+        <img src="/metronic/assets/pages/img/frontend-slider/book.jpg" class="animated zoomIn" alt="San Francisco" width="350" height="250">
       </div>
     </div>
   </div>
