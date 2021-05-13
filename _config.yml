@@ -106,5 +106,5 @@ theme: corporate
 deploy: 
   type: git
   repo: https://github.com/jonggang11/jonggang11.github.io.git
-  branch: master
+  branch: main
   ignore_hidden: false
