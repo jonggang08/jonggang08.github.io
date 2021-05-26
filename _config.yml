@@ -4,7 +4,7 @@
 
 # Site
 title: VNTGCORP
-subtitle: VNTG Technical Blog
+subtitle: VNTG Blog
 description: ''
 keywords:
 author: 배종강
@@ -105,6 +105,6 @@ theme: corporate
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
-  repo: https://github.com/jonggang11/jonggang11.github.io.git
-  branch: main
+  repo: https://github.com/jonggang08/jonggang08.github.io.git
+  branch: master
   ignore_hidden: false

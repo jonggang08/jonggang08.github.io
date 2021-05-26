@@ -20,9 +20,11 @@ layout: page
 
 ***
 
-* <a href="/erp/" role="button" target="_blank"><font size="4">브랜드 디자인 인턴채용</font></a>
+* <a href="/design/" role="button" target="_blank"><font size="4">브랜드 디자인 인턴채용</font></a>
 
-	
+***
+
+* <a href="/기술/" role="button" target="_blank"><font size="4">기술지원실 Infrastructure 설계 담당자 채용</font></a>
 
 
 

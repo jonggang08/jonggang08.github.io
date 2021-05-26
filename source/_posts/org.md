@@ -10,4 +10,4 @@ lede: Written by 홍길동
 featured: true
 ---
 
-<img src="/metronic/assets/pages/img/frontend-slider/org.PNG" border=0 width="1200" height="480">
+<img src="/metronic/assets/pages/img/frontend-slider/org.PNG" class="img-responsive">
